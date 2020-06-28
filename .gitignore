@@ -1,0 +1,10 @@
+# Ignore .history folder from history extension
+.history
+
+# VS Code settings
+.vscode/settings.json
+
+# DS Store
+.DS_Store
+*/.DS_Store
+
